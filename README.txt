@@ -25,4 +25,4 @@ please make sure to update tests as appropriate.
 ## Licences
 [MIT](https://www.mit.edu/)
 
-![myimage-alt-tag](img/1.jpg)
+![myimage-alt-tag](1.jpg)
